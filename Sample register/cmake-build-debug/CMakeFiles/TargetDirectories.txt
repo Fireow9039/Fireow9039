@@ -1,0 +1,3 @@
+/Users/rohanjaiswal/Desktop/Projects from Youtube in C++/cmake-build-debug/CMakeFiles/Projects_from_Youtube_in_C__.dir
+/Users/rohanjaiswal/Desktop/Projects from Youtube in C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rohanjaiswal/Desktop/Projects from Youtube in C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
