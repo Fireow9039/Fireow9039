@@ -1,0 +1,5 @@
+ 1 Juice 70 2
+ 1 Juice 70 2
+ 2 Bread 30 2
+ 3 Butter 16 4
+ 4 eggs 170 3
